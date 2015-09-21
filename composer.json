@@ -18,5 +18,6 @@
             "email": "tiends87@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
