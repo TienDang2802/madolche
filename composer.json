@@ -1,6 +1,8 @@
 {
     "name": "madolche/tutita",
     "description": "Madolche package demo",
+    "type": "library",
+    "license": "MIT",
     "autoload": {
       "classmap": [
         "database"
