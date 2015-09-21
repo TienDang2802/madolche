@@ -1,0 +1,20 @@
+{
+    "name": "madolche/tutita",
+    "description": "Madolche package demo",
+    "autoload": {
+      "classmap": [
+        "database"
+      ],
+      "psr-4": {
+        "App\\": "app/",
+        "Madolche\\Tutita\\": "packages/madolche/tutita/src/"
+      }
+    },
+    "authors": [
+        {
+            "name": "TienDang",
+            "email": "tiends87@gmail.com"
+        }
+    ],
+    "require": {}
+}
