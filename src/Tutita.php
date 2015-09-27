@@ -7,7 +7,9 @@ class Tutita{
         $nRow = 5;
         $nRow--;
         $length = 2*$nRow;
+
         $localIndex = array();
+
         for($col = 0; $col < $nCol; $col++){
             $localIndex[$col] = $col % $length;
         }
