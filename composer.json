@@ -1,6 +1,6 @@
 {
     "name": "madolche/tutita",
-    "description": "Madolche package demo",
+    "description": "Madolche packagist demo",
     "type": "library",
     "license": "MIT",
     "autoload": {
