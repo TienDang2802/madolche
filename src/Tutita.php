@@ -26,5 +26,6 @@ class Tutita{
         }
 
         echo "Test package OK";
+        echo "Test package done";
     }
 }
