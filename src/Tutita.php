@@ -25,8 +25,6 @@ class Tutita{
             print("\n");
         }
 
-        echo "Success";
         echo "Test package OK";
-        echo "Test package done";
     }
 }
