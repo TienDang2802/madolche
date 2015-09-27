@@ -3,7 +3,7 @@
 class Tutita{
 
     public function doSomething() {
-        /*$nCol = 21;
+        $nCol = 21;
         $nRow = 5;
         $nRow--;
         $length = 2*$nRow;
@@ -23,7 +23,7 @@ class Tutita{
                 }
             }
             print("\n");
-        }*/
-        echo "Test package OK";
+        }
+        //echo "Test package OK";
     }
 }
