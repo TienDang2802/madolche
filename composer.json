@@ -1,6 +1,7 @@
 {
     "name": "madolche/tutita",
     "description": "Madolche packagist demo",
+    "homepage": "https://github.com/TienDang2802/madolche",
     "type": "library",
     "license": "MIT",
     "autoload": {

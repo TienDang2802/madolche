@@ -24,6 +24,6 @@ class Tutita{
             }
             print("\n");
         }*/
-        echo "Test OK";
+        echo "Test package OK";
     }
 }
