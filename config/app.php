@@ -145,6 +145,9 @@ return [
 		'App\Providers\EventServiceProvider',
 		'App\Providers\RouteServiceProvider',
 
+        Madolche\Tutita\TutitaServiceProvider::class,
+
+
 
 	],
 
@@ -194,6 +197,7 @@ return [
 		'Validator' => 'Illuminate\Support\Facades\Validator',
 		'View'      => 'Illuminate\Support\Facades\View',
         'Debugbar'  => 'Barryvdh\Debugbar\Facade',
+        'Tutita'  => 'Madolche\Tutita\Facade\Tutita',
 	],
 
 ];

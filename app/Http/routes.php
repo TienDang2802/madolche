@@ -11,7 +11,11 @@
 |
 */
 
-Route::get('/', 'WelcomeController@index');
+//Route::get('/', 'WelcomeController@index');
+
+Route::get('/',function(){
+    return Tutita::doSomething();
+});
 
 Route::get('home', 'HomeController@index');
 Route::get('set-env', 'HomeController@env');
